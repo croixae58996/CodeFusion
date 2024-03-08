@@ -1,0 +1,26 @@
+{
+"name": "code-usion-2",
+"version": "1.0.0",
+"description": "an innovative coding platform designed to revolutionize the way developers collaborate and build software.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/croixae58996/CodeFusion.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "croixae58996",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
